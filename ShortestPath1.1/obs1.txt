@@ -1,0 +1,9 @@
+800 800	100							# width height doorwidth 
+# Comments begin with a "# ". Need a space after the #.
+#
+SWALL 0 400 800 400  600 		# WALLTYPE X Y LEN door1 door2 ...  
+WWALL 400 100 400 100
+NWALL 200 100 300 200
+EWALL -400 -100 400 100
+OBST 200 -100 100 -100 100 -200 200 -200 # OBST X1 Y1 X2 Y2 ...
+OBST -300 300 -200 300 -200 200
